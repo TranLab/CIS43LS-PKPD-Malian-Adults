@@ -4,4 +4,4 @@ Data for "Pharmacokinetics and pharmacodynamics of a long-acting monoclonal anti
 
 ## Code
 
-[Code for figures in manuscript and additional analyses](https://tranlab.github.io/CIS43LS-PKPD-Malian-Adults/html/CIS43LS-Mali-Adults-PK-JCI-Revision-May-2026.html)
+[Code for figures in manuscript and additional analyses](https://tranlab.github.io/CIS43LS-PKPD-Malian-Adults/blob/main/html/CIS43LS-Mali-Adults-PK-JCI-Revision-May-2026.html)
